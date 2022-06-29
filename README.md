@@ -1,6 +1,6 @@
 # Project "SCHED"
 
-![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/thomazs/sched)
+![Programming Language :: Shellscript](https://img.shields.io/badge/Language-shellscript-yellowgreen) ![Programming Language :: Python](https://img.shields.io/badge/Language-python-blue) ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/thomazs/sched) ![Programming Language :: Python :: Metaclasses](https://img.shields.io/badge/python-metaclasses-red?style=flat)
 
 ## What is?
 
